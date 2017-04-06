@@ -1,6 +1,8 @@
 import thread
 
 
+#This methods prints a certain patter
+#Used to test threads
 def printA():
 	count = 0;
 
